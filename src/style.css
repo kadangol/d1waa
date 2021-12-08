@@ -1,0 +1,46 @@
+.student-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    padding: 20px 40px;
+}
+
+.card {
+    background-color: skyblue;
+    width: 400px;
+    margin-top: 20px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.input-container{
+    margin-top: 30px;
+    margin-bottom: 130px;
+}
+.input-container input{
+    height: 30px;
+    width: 300px;
+}
+.input-container button{
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.student-info{
+    width: 80%;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    color: white;
+}
